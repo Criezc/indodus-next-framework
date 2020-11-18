@@ -22,9 +22,9 @@ class Feautures extends React.Component {
                   data-aos="zoom-in"
                   data-aos-delay="150"
                 >
-                  <h3>
+                  <h2>
                     <b>Our Mission : </b>
-                  </h3>
+                  </h2>
                   <i className="ri-coins-line"></i>
                   <h4>Low Cost Packaging</h4>
                   <p>

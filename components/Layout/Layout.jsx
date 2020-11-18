@@ -11,11 +11,11 @@ import Testimonials from "./Testimonials/Testimonials";
 import Contact from "./Contact/Contact";
 import Footer from "./Footer/Footer";
 
-export default function Layout({ children, title = "CV.Indodus Plas" }) {
+export default function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>{title}</title>
+        {/* <title>{title}</title> */}
         <meta charSet="utf-8" />
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta
@@ -32,6 +32,12 @@ export default function Layout({ children, title = "CV.Indodus Plas" }) {
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="Indodus Plas" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta
+          name="google-site-verification"
+          content="NVlACmY5F-n001wLYefnILfqz_W9xXaLywuQlO_Q7gE"
+        />
       </Head>
       <Header />
       <Hero />

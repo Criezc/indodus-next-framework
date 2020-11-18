@@ -22,11 +22,11 @@ class Products extends Component {
                   <div className="icon">
                     <img src="img/delivery-box.png" alt="delivery-box" />
                   </div>
-                  <h4>
+                  <h3>
                     <Link to="portfolio" smooth={true} duration={2000}>
                       Corrugated Diecut Box
                     </Link>
-                  </h4>
+                  </h3>
                   <p>
                     sebagai packaging primer atau sekunder yang terbuat dari
                     lapisan kertas kraft. Pada umumnya digunakan untuk
@@ -45,11 +45,11 @@ class Products extends Component {
                   <div className="icon">
                     <img src="img/box.png" alt="box" />
                   </div>
-                  <h4>
+                  <h3>
                     <Link to="portfolio" smooth={true} duration={2000}>
                       Duplex Diecut Box
                     </Link>
-                  </h4>
+                  </h3>
                   <p>
                     Packaging sekunder yang terbuat dari bahan kertas
                     (Duplex/ArtCarton/Ivory) untuk melindungi isi produk dari
@@ -68,11 +68,11 @@ class Products extends Component {
                   <div className="icon">
                     <img src="img/shopping-bag.png" alt="shopping-bag" />
                   </div>
-                  <h4>
+                  <h3>
                     <Link to="portfolio" smooth={true} duration={2000}>
                       Paper Bag
                     </Link>
-                  </h4>
+                  </h3>
                   <p>
                     Packaging yang terbuat dari kertas kraft. Pada umumnya
                     digunakan untuk memudahkan pelanggan membawa produk yang
@@ -90,11 +90,11 @@ class Products extends Component {
                   <div className="icon">
                     <img src="img/package.png" alt="package" />
                   </div>
-                  <h4>
+                  <h3>
                     <Link to="portfolio" smooth={true} duration={2000}>
                       Corrugated Box
                     </Link>
-                  </h4>
+                  </h3>
                   <p>
                     Packaging sekunder atau tersier yang terbuat dari lapisan
                     kertas Kraft. Pada umumnya digunakan sebagai wadah pelindung
@@ -112,11 +112,11 @@ class Products extends Component {
                   <div className="icon">
                     <img src="img/plastic-bag.png" alt="plastic-bag" />
                   </div>
-                  <h4>
+                  <h3>
                     <Link to="portfolio" smooth={true} duration={2000}>
                       Cassava Plast
                     </Link>
-                  </h4>
+                  </h3>
                   <p>
                     Plastik yang terbuat dari bahan dasar tepung singkong dengan
                     daya ketahanan setara dengan plastik Non-Cassava
@@ -132,11 +132,11 @@ class Products extends Component {
                   <div className="icon">
                     <img src="img/paper-bag.png" alt="paper-bag" />
                   </div>
-                  <h4>
+                  <h3>
                     <Link to="portfolio" smooth={true} duration={2000}>
                       Sack Kraft
                     </Link>
-                  </h4>
+                  </h3>
                   <p>
                     Packaging yang terbuat dari bahan kertas kraft tipis yang
                     biasa digunakan untuk membungkus produk langsung. Sack kraft
@@ -147,10 +147,10 @@ class Products extends Component {
             </div>
             <div data-aos="zoom-in" data-aos-delay="300">
               <div className="icon-box">
-                <h4>
+                <h3>
                   Semua produk yang kami produksi dapat di{" "}
                   <b>daur ulang dan ramah terhadap lingkungan</b>
-                </h4>
+                </h3>
                 <p style={{ color: "#ffc451", textAlign: "center" }}>
                   *Kontak Whatsapp untuk quotation harga, setiap produk memiliki
                   Minimum Quantity berdasarkan besar - kecil ukuran packaging

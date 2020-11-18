@@ -23,16 +23,16 @@ class About extends React.Component {
                 data-aos="fade-right"
                 data-aos-delay="100"
               >
-                <h3>
+                <h2>
                   Indodus Plas adalah perusahaan packaging yang sudah beroperasi
                   sejak tahun 1972 dengan produk utama yang di produksi awal
                   adalah Corrugated Box.
-                </h3>
-                <h2>
+                </h2>
+                <h3>
                   Seiring berjalannya waktu melakukan ekspansi terhadap produk
                   kemasan lainnya seperti Kemasan Plastik, Kemasan Diecut, serta
                   Paper Bag.
-                </h2>
+                </h3>
                 <h4>
                   <span>
                     <b>Our Vision : </b>

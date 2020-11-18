@@ -47,7 +47,7 @@
         if ($("body").hasClass("mobile-nav-active")) {
           $("body").removeClass("mobile-nav-active");
           $(".mobile-nav-toggle i").toggleClass(
-            "icofont-navigation-menu icofont-close"
+            "ri-menu-fill ri-menu-unfold-fill"
           );
           $(".mobile-nav-overly").fadeOut();
         }
@@ -80,15 +80,13 @@
     });
     $("body").append($mobile_nav);
     $("body").prepend(
-      '<button type="button" class="mobile-nav-toggle d-lg-none"><i class="icofont-navigation-menu"></i></button>'
+      '<button type="button" class="mobile-nav-toggle d-lg-none"><i class="ri-menu-fill"></i></button>'
     );
     $("body").append('<div class="mobile-nav-overly"></div>');
 
     $(document).on("click", ".mobile-nav-toggle", function (e) {
       $("body").toggleClass("mobile-nav-active");
-      $(".mobile-nav-toggle i").toggleClass(
-        "icofont-navigation-menu icofont-close"
-      );
+      $(".mobile-nav-toggle i").toggleClass("ri-menu-fill ri-menu-unfold-fill");
       $(".mobile-nav-overly").toggle();
     });
 
@@ -104,7 +102,7 @@
         if ($("body").hasClass("mobile-nav-active")) {
           $("body").removeClass("mobile-nav-active");
           $(".mobile-nav-toggle i").toggleClass(
-            "icofont-navigation-menu icofont-close"
+            "ri-menu-fill ri-menu-unfold-fill"
           );
           $(".mobile-nav-overly").fadeOut();
         }

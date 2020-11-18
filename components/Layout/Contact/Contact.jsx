@@ -62,7 +62,9 @@ class Contact extends Component {
                 <div className="info">
                   <div className="address">
                     <i className="ri-map-pin-2-fill"></i>
-                    <h4>Location:</h4>
+                    <p style={{ fontSize: "22px", fontWeight: "600" }}>
+                      Location:
+                    </p>
                     <p style={{ color: "#ffc451" }}>
                       {" "}
                       Teluk Gong, Jakarta Utara
@@ -71,14 +73,17 @@ class Contact extends Component {
 
                   <div className="email">
                     <i className="ri-mail-send-fill"></i>
-                    <h4>Email:</h4>
+                    <p style={{ fontSize: "22px", fontWeight: "600" }}>
+                      Email:
+                    </p>
                     <p style={{ color: "#ffc451" }}>indodus.plas@yahoo.com</p>
-                    {/* <p>indodus.plas@yahoo.com</p> */}
                   </div>
 
                   <div className="phone">
                     <i className="ri-phone-fill"></i>
-                    <h4>Phone / Whatsapp:</h4>
+                    <p style={{ fontSize: "22px", fontWeight: "600" }}>
+                      Phone / Whatsapp:
+                    </p>
                     <p style={{ color: "#ffc451" }}>
                       021-6683511 / 081519129070{" "}
                     </p>
