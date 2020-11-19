@@ -82,10 +82,10 @@ class Contact extends Component {
                   <div className="phone">
                     <i className="ri-phone-fill"></i>
                     <p style={{ fontSize: "22px", fontWeight: "600" }}>
-                      Phone / Whatsapp:
+                      Phone:
                     </p>
                     <p style={{ color: "#ffc451" }}>
-                      021-6683511 / 081519129070{" "}
+                      021-6683511 / 081317569226{" "}
                     </p>
                   </div>
                 </div>

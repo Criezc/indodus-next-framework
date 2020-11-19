@@ -8,7 +8,7 @@ class Header extends React.Component {
         <header id="header" className="fixed-top">
           <div className="container d-flex align-items-center justify-content-between">
             <h1 className="logo">
-              <Link to="index.html" duration={1500} smooth={true}>
+              <Link to="hero" duration={1500} smooth={true}>
                 CV.Indodus Plas<span>.</span>
               </Link>
             </h1>

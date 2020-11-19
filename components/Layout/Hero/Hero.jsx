@@ -52,7 +52,7 @@ class Hero extends React.Component {
                   <img src="img/delivery-box.png" alt="delivery-box" />
                   <h3>
                     <Link to="services" smooth={true} duration={1500}>
-                      Diecut Corrugated Box
+                      Diecut Duplex
                     </Link>
                   </h3>
                 </div>

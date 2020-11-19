@@ -90,7 +90,9 @@ class Footer extends Component {
             <div className="copyright">
               &copy; Copyright{" "}
               <strong>
-                <span>CV.Indodus Plas</span>
+                <a href="https://indodusplas.com">
+                  <span>CV.Indodus Plas</span>
+                </a>
               </strong>
               . All Rights Reserved
             </div>

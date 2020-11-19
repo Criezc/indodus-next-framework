@@ -108,8 +108,8 @@ class MyDocument extends Document {
           <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
           <script src="vendor/isotope-layout/isotope.pkgd.min.js"></script>
           <script src="vendor/aos/aos.js"></script>
-          <script src="js/compressed.js"></script>
           <script src="vendor/venobox/venobox.min.js"></script>
+          <script src="js/compressed.js"></script>
         </body>
       </Html>
     );

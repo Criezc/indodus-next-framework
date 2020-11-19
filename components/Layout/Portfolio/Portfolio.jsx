@@ -31,7 +31,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/CORRUGATED_BOX.jpg"
+                    src="img/products/box.jpg"
                     className="img-fluid"
                     alt="corrugate-box"
                   />
@@ -49,7 +49,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/CORRUGATED_BOX.jpg"
+                        href="img/products/box.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="Corrugated Box"
@@ -67,7 +67,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/ECO_PLAS.jpg"
+                    src="img/products/eco.jpg"
                     className="img-fluid"
                     alt="diecut-box"
                   />
@@ -84,7 +84,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/ECO_PLAS.jpg"
+                        href="img/products/eco.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="eco-plastic"
@@ -99,7 +99,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/dus_duplex.jpg"
+                    src="img/products/duplex.jpg"
                     className="img-fluid"
                     alt="duplex-diecut"
                   />
@@ -117,7 +117,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/dus_duplex.jpg"
+                        href="img/products/duplex.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="duplex-diecut"
@@ -159,7 +159,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/paper_bag.jpg"
+                    src="img/products/paper-bag.jpg"
                     className="img-fluid"
                     alt="paper=bag"
                   />
@@ -176,7 +176,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/paper_bag.jpg"
+                        href="img/products/paper-bag.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="paper-bag"
@@ -194,7 +194,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/DIECUT.jpg"
+                    src="img/products/diecut.jpg"
                     className="img-fluid"
                     alt="diecut-box"
                   />
@@ -212,7 +212,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/DIECUT.jpg"
+                        href="img/products/diecut.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="diecut-box"
@@ -281,7 +281,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/SACK_KRAFT.jpg"
+                    src="img/products/sack.jpg"
                     className="img-fluid"
                     alt="sack-craft"
                   />
@@ -298,7 +298,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/SACK_KRAFT.jpg"
+                        href="img/products/sack.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="sack-kraft"
