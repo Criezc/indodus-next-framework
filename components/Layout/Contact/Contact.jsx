@@ -85,7 +85,7 @@ class Contact extends Component {
                       Phone:
                     </p>
                     <p style={{ color: "#ffc451" }}>
-                      021-6683511 / 081317569226{" "}
+                      021-6683511 / 085100777497{" "}
                     </p>
                   </div>
                 </div>
