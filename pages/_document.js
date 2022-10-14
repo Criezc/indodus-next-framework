@@ -11,7 +11,7 @@ class MyDocument extends Document {
         <noscript>
           =============================
           <br />
-          Author : PT. SEJATI CIPTA BUANA
+          Author : https://github.com/Criezc
           <br />
           WEB : https://indodusplas.com/
           <br />
