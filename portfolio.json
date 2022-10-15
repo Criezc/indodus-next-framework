@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Corrugated Box",
+    "imageSrc": "img/products/box.jpg",
+    "description": "Packaging sekunder atau tersier yang terbuat dari lapisan kertas Kraft. Pada umumnya digunakan sebagai wadah pelindung produk primer atau sekunder saat pengiriman dan pemindahan.",
+    "type": "box"
+  },
+  {
+    "id": 2,
+    "title": "Eco-Plastic",
+    "imageSrc": "img/products/eco.jpg",
+    "description": "Plastik yang terbuat dari bahan dasar tepung singkong dengan daya ketahanan setara dengan plastik Non-Cassava.",
+    "type": "bag"
+  },
+  {
+    "id": 3,
+    "title": "Duplex Diecut",
+    "imageSrc": "img/products/duplex.jpg",
+    "description": "Packaging sekunder yang terbuat dari bahan kertas (Duplex/Art Carton/Ivory) untuk melindungi isi produk dari kerusakan akibat faktor eksternal. serta memiliki kesan visual lebih mewah.",
+    "type": "box"
+  },
+  {
+    "id": 4,
+    "title": "Paper Bag",
+    "imageSrc": "img/products/paper-bag.jpg",
+    "description": "Packaging yang terbuat dari kertas kraft. Pada umumnya digunakan untuk memudahkan pelanggan membawa produk yang mereka beli.",
+    "type": "bag"
+  },
+  {
+    "id": 5,
+    "title": "Diecut Box",
+    "imageSrc": "img/products/DIECUT.jpg",
+    "description": "Sebagai packaging primer atau sekunder yang terbuat dari lapisan kertas kraft. Pada umumnya digunakan untuk melindungi isi produk dari kerusakan-kerusakan akibat faktor eksternal.",
+    "type": "box"
+  },
+  {
+    "id": 6,
+    "title": "Sack Kraft",
+    "imageSrc": "img/products/sack.jpg",
+    "description": "  Packaging yang terbuat dari bahan kertas kraft tipis yang biasa digunakan untuk membungkus produk langsung. Sack kraft digunakan untuk produk yang relatif kecil",
+    "type": "bag"
+  }
+]
