@@ -194,7 +194,7 @@ class Portfolio extends Component {
               <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div className="portfolio-wrap">
                   <img
-                    src="img/products/diecut.jpg"
+                    src="img/products/DIECUT.jpg"
                     className="img-fluid"
                     alt="diecut-box"
                   />
@@ -212,7 +212,7 @@ class Portfolio extends Component {
                     </p>
                     <div className="portfolio-links">
                       <a
-                        href="img/products/diecut.jpg"
+                        href="img/products/DIECUT.jpg"
                         data-gall="portfolioGallery"
                         className="venobox"
                         title="diecut-box"
